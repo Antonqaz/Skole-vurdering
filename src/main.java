@@ -1,4 +1,3 @@
-//HUSK NOTER
 
 import java.lang.Math;
 import java.awt.*;
@@ -57,10 +56,12 @@ public class main {
     //Calculate traffic score for a single school
     public static double schoolScore(School school, TrafficCounter[] counters){
         double score = 0;
+        Integer amount = 0;
         for (TrafficCounter counter : counters) {
             score += singleScore(school, counter);
+            amount ++;
         }
-        return score;
+        return score/amount;
     }
 
     //Calculate the traffic score for one traffic counter on a school
