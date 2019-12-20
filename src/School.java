@@ -1,10 +1,10 @@
-import java.awt.*;
+import java.awt.geom.Point2D;
 
 public class School {
-    private Point coordinate;
+    private Point2D coordinate;
     private String name;
 
-    public void School(Point coordinate, String name){
+    public School(Point2D.Double coordinate, String name){
         this.coordinate = coordinate;
         this.name = name;
     }
@@ -13,7 +13,7 @@ public class School {
         return this.name;
     }
 
-    public Point getCoordinate() {
+    public Point2D getCoordinate() {
         return coordinate;
     }
 }

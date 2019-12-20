@@ -1,15 +1,15 @@
-import java.awt.*;
+import java.awt.geom.Point2D;
 
 public class TrafficCounter {
-    private Point coordinate;
+    private Point2D coordinate;
     private Integer count;
 
-    public void TrafficCounter(Point coordinate, Integer count){
+    public TrafficCounter(Point2D coordinate, Integer count){
         this.coordinate = coordinate;
         this.count = count;
     }
 
-    public Point getCoordinate() {
+    public Point2D getCoordinate() {
         return coordinate;
     }
 

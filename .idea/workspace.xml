@@ -33,6 +33,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Innovation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -59,6 +73,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1576839994941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1576839994941" />
+    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1576839994941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1576839994941" />
+    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1576839994941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1576839994941" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1576839994941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1576839994941" />
     <state x="342" y="140" key="new project wizard" timestamp="1576636661633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
